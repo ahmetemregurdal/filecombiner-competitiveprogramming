@@ -1,0 +1,5 @@
+~/Repos/cp-library/src/io.cpp
+~/Repos/cp-library/src/segmentTree.cpp
+
+#include "~/Repos/cp-library/src/io.cpp"
+#include "~/Repos/cp-library/src/segmentTree.cpp"
